@@ -3,6 +3,7 @@
 
 import random
 
+'''
 def nfromm(m, n, unique=True):
     """
     从[0, m)中产生n个随机数
@@ -31,7 +32,7 @@ def nfromm(m, n, unique=True):
         return out
 
 # nfromm(10,8)
-
+'''
 '''
 从正整数 N 开始，我们按任何顺序（包括原始顺序）将数字重新排序，注意其前导数字不能为零。
 
